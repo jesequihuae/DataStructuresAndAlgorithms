@@ -6,3 +6,6 @@ At this moment there is inside:
 - Array
 - Singly Linked List
 - Stack 
+
+My Youtube Channel: https://www.youtube.com/channel/UC3pPY30kV7fwvb_HGzKhM-Q
+My Twitter: https://twitter.com/jesequihuae
